@@ -1,0 +1,6 @@
+# packages
+node_moduls
+
+# cypress screenshots, videos
+cypress/screenshots
+cypress/videos
